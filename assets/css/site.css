@@ -789,6 +789,7 @@ input[type='file'] { --webkit-appearance:button; background:transparent; border-
  .section_06_tele_icon { width: 80px; } 
  .section_06_tele_icon_div { text-align: center; } 
  .section6_content_p { width: 70%; margin: 30px auto; text-align: center; font-size: 2rem; } 
+ .copyright{font-size: 1.3rem}
 }
 @media all and (max-width:650px){
  .section6_title { width: 200px; } 
@@ -798,6 +799,7 @@ input[type='file'] { --webkit-appearance:button; background:transparent; border-
  .section_06_tele_icon { width: 50px; } 
  .section_06_tele_icon_div { text-align: center; } 
  .section6_content_p { width: 70%; margin: 30px auto; text-align: center; font-size: 1.5rem; } 
+ .copyright{font-size: 1rem}
  }
 
 @media all and (max-width:1220px){
