@@ -585,7 +585,7 @@ input[type='file'] { --webkit-appearance:button; background:transparent; border-
  .iframe_pos { width: 600px; } 
  .section3_chichi_img { width: 550px; } 
 
- .pancakeswap_iframe { width: 650px; height: 650px; } 
+ .pancakeswap_iframe { width: 600px; height: 650px; } 
  .section3_iframe_div { width: 80%; display: flex; justify-content: space-between; } 
 
 
@@ -669,9 +669,9 @@ input[type='file'] { --webkit-appearance:button; background:transparent; border-
 
  .section3_wallet, .section3_bnb, .section3_swap, .section3_switch { width: 400px; } 
 
- .section3_chichi_img { width: 450px; } 
+ .section3_chichi_img { width: 400px; } 
 
- .pancakeswap_iframe { width: 450px; height: 550px; } 
+ .pancakeswap_iframe { width: 400px; height: 550px; } 
  .section3_iframe_div { width: 60%; display: flex; justify-content: space-between; } 
  }
 
@@ -778,6 +778,7 @@ input[type='file'] { --webkit-appearance:button; background:transparent; border-
 .section_06_main_logo_li { text-align: center; } 
 .section_06_main_logo { width: 250px; } 
 .section_06_tele_icon { margin-left: 20px; } 
+
 .section_06_tele_icon_div { text-align: center; } 
 .section6_content_p { width: 70%; margin: 30px auto; text-align: center; font-size: 2.5rem; } 
 
