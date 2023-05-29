@@ -569,7 +569,7 @@ input[type='file'] { --webkit-appearance:button; background:transparent; border-
  
  .section0 .text_area .txt_btn { width: 100%; } 
  .section0 .text_area .txt_btn div { width: 90%; display: flex; justify-content: space-between; } 
- .tele_Icon, .bscscan_Icon, .coinmarketCap_Icon { width: 100px; cursor: pointer; } 
+ .tele_Icon, .bscscan_Icon, .coinmarketCap_Icon { width: 80px; cursor: pointer; } 
  .exchange_list_div { margin: 50px auto; text-align: center; width: 100%; display: inline-block; } 
  .exchange_list_div div { margin: 0 auto; width: 90%; display: flex; flex-wrap: wrap; justify-content: space-between; } 
  .exchange_list_div img { width: 300px; margin-bottom: 20px; } 
@@ -618,7 +618,7 @@ input[type='file'] { --webkit-appearance:button; background:transparent; border-
  .section1_inner_div .img_area img { width: 200px; } 
 
  .exchange_list_div img { width: 200px; margin-bottom: 20px; } 
- .tele_Icon, .bscscan_Icon, .coinmarketCap_Icon { width: 60px; } 
+ .tele_Icon, .bscscan_Icon, .coinmarketCap_Icon { width: 50px; } 
  .exchange_list_div div { margin: 20px auto; width: 60%; display: flex; flex-wrap: wrap; justify-content: space-between; } 
  .section2_title_img { width: 300px; } 
  
@@ -639,7 +639,7 @@ input[type='file'] { --webkit-appearance:button; background:transparent; border-
  .section1_inner_div .img_area img { width: 200px; } 
 
  .exchange_list_div img { width: 150px; margin-bottom: 20px; } 
- .tele_Icon, .bscscan_Icon, .coinmarketCap_Icon { width: 40px; } 
+ .tele_Icon, .bscscan_Icon, .coinmarketCap_Icon { width: 35px; } 
  .exchange_list_div div { margin: 20px auto; width: 60%; display: flex; flex-wrap: wrap; justify-content: space-between; } 
  .section2_title_img { width: 200px; } 
  .section2_ul li { width: 100%; display: flex; } 
@@ -651,7 +651,7 @@ input[type='file'] { --webkit-appearance:button; background:transparent; border-
  .section1_inner_div .img_area { width: 80%; text-align: center; margin: 20px auto; } 
  .section1_inner_div .img_area img { width: 200px; } 
  .exchange_list_div img { width: 180px; margin-bottom: 10px; } 
- .tele_Icon, .bscscan_Icon, .coinmarketCap_Icon { width: 40px; } 
+ .tele_Icon, .bscscan_Icon, .coinmarketCap_Icon { width: 35px; } 
  .exchange_list_div div { margin: 20px auto; width: 60%; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; } 
  .section2_chichi { width: 200px; } 
  .section2_title_img { width: 150px; } 
